@@ -40,6 +40,12 @@
   * [Assign allocations](server-main/networking/assign-allocations.md)
   * [Set the primary allocation](server-main/networking/set-the-primary-allocation.md)
   * [Delete Allocation](server-main/networking/delete-allocation.md)
+* [Users](server-main/users/README.md)
+  * [List Users](server-main/users/list-users.md)
+  * [Add User](server-main/users/add-user.md)
+  * [User details](server-main/users/user-details.md)
+  * [Update user](server-main/users/update-user.md)
+  * [Remove user](server-main/users/remove-user.md)
 
 ***
 
