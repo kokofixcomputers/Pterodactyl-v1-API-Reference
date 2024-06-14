@@ -4,8 +4,6 @@
 
 Request Example: `https://pterodactyl/api/client/servers/<Server ID>/network/allocations/<allocation id>/primary`
 
-## Get Server Details
-
 <mark style="color:yellow;">`POST`</mark> `/api/client/servers/<Server ID>/schedules/network/allocations/<allocation id>/primary`
 
 **Headers**

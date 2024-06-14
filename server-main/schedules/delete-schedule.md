@@ -4,8 +4,6 @@
 
 Request Example: `https://pterodactyl/api/client/servers/<Server ID>/schedules/<schedule id>`
 
-## Get Server Details
-
 <mark style="color:red;">`DELETE`</mark> `/api/client/servers/<Server ID>/schedules/<schedule id>`
 
 **Headers**

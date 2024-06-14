@@ -8,8 +8,6 @@ description: assign a new allocation if auto-assign is enabled on the instance
 
 Request Example: `https://pterodactyl/api/client/servers/<Server ID>/network/allocations`
 
-## Get Server Details
-
 <mark style="color:yellow;">`POST`</mark> `/api/client/servers/<Server ID>/schedules/network/allocations`
 
 **Headers**
