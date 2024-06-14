@@ -62,3 +62,4 @@
 ***
 
 * [Websocket](websocket.md)
+* [How to get api key](how-to-get-api-key.md)
