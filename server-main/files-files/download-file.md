@@ -2,11 +2,11 @@
 
 **Request method: GET**
 
-Request Example: `https://pterodactyl/api/client/servers/<Server ID>/files/contents?file=paper.yml`
+Request Example: `https://pterodactyl/api/client/servers/<Server ID>/files/download?file=paper.yml`
 
 ## Get Server Details
 
-<mark style="color:green;">`GET`</mark> `/api/client/servers/<Server ID>/files/contents?file=paper.yml`
+<mark style="color:green;">`GET`</mark> `/api/client/servers/<Server ID>/files/download?file=paper.yml`
 
 **Parameters**
 
