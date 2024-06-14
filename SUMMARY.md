@@ -46,6 +46,18 @@
   * [User details](server-main/users/user-details.md)
   * [Update user](server-main/users/update-user.md)
   * [Remove user](server-main/users/remove-user.md)
+* [Backups](server-main/backups/README.md)
+  * [List Backup](server-main/backups/list-backup.md)
+  * [Create Backup](server-main/backups/create-backup.md)
+  * [Backup Details](server-main/backups/backup-details.md)
+  * [Download Backup](server-main/backups/download-backup.md)
+  * [Delete Backup](server-main/backups/delete-backup.md)
+* [Startup](server-main/startup/README.md)
+  * [List Variables](server-main/startup/list-variables.md)
+  * [Set/Update Variable](server-main/startup/set-update-variable.md)
+* [Settings](server-main/settings/README.md)
+  * [Rename Server](server-main/settings/rename-server.md)
+  * [Reinstall Server](server-main/settings/reinstall-server.md)
 
 ***
 
