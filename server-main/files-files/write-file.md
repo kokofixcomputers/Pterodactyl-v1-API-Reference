@@ -6,7 +6,7 @@ Request Example: `https://pterodactyl/api/client/servers/<Server ID>/files/write
 
 ## Get Server Details
 
-<mark style="color:yellow;">`POST`</mark> `/api/client/servers/<Server ID>/files/copy`
+<mark style="color:yellow;">`POST`</mark> `/api/client/servers/<Server ID>/files/write?file=hey.txt`
 
 **Headers**
 
