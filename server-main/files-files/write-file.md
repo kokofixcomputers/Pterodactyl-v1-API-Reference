@@ -13,7 +13,7 @@ Request Example: `https://pterodactyl/api/client/servers/<Server ID>/files/write
 | Name            | Value                  |
 | --------------- | ---------------------- |
 | `Accept`        | application/json       |
-| `Content-Type`  | application/json       |
+| `Content-Type`  | text/html              |
 | `Authorization` | Bearer \<Your Api Key> |
 
 **Request Body**
