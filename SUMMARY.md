@@ -1,0 +1,41 @@
+# Table of contents
+
+* [Home](README.md)
+
+## Server/Main
+
+* [Server Details](server-main/server-details.md)
+* [Resource usage](server-main/resource-usage.md)
+* [Send Command](server-main/send-command.md)
+* [Request a power action](server-main/request-a-power-action.md)
+* [Generates websocket credentials](server-main/generates-websocket-credentials.md)
+* [Database](server-main/database/README.md)
+  * [List all databases](server-main/database/list-all-databases.md)
+  * [Create database](server-main/database/create-database.md)
+  * [Rotate Password](server-main/database/rotate-password.md)
+  * [Delete Database](server-main/database/delete-database.md)
+* [Files (/files)](server-main/files-files/README.md)
+  * [List Files](server-main/files-files/list-files.md)
+  * [Get file contents](server-main/files-files/get-file-contents.md)
+  * [Download File](server-main/files-files/download-file.md)
+  * [Rename File](server-main/files-files/rename-file.md)
+  * [Copy Files](server-main/files-files/copy-files.md)
+  * [Write file](server-main/files-files/write-file.md)
+  * [Compress File](server-main/files-files/compress-file.md)
+  * [Decompress File](server-main/files-files/decompress-file.md)
+  * [Delete file](server-main/files-files/delete-file.md)
+  * [Create folder](server-main/files-files/create-folder.md)
+* [Schedules](server-main/schedules/README.md)
+  * [Tasks](server-main/schedules/tasks/README.md)
+    * [Create Task](server-main/schedules/tasks/create-task.md)
+    * [Update Task](server-main/schedules/tasks/update-task.md)
+    * [Delete Tasks](server-main/schedules/tasks/delete-tasks.md)
+  * [List schedules](server-main/schedules/list-schedules.md)
+  * [Create schedule](server-main/schedules/create-schedule.md)
+  * [Schedule details](server-main/schedules/schedule-details.md)
+  * [Update schedule](server-main/schedules/update-schedule.md)
+  * [Delete schedule](server-main/schedules/delete-schedule.md)
+
+***
+
+* [Websocket](websocket.md)
