@@ -35,6 +35,11 @@
   * [Schedule details](server-main/schedules/schedule-details.md)
   * [Update schedule](server-main/schedules/update-schedule.md)
   * [Delete schedule](server-main/schedules/delete-schedule.md)
+* [Networking](server-main/networking/README.md)
+  * [Get allocations](server-main/networking/get-allocations.md)
+  * [Assign allocations](server-main/networking/assign-allocations.md)
+  * [Set the primary allocation](server-main/networking/set-the-primary-allocation.md)
+  * [Delete Allocation](server-main/networking/delete-allocation.md)
 
 ***
 
