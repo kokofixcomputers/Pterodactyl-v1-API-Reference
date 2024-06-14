@@ -4,4 +4,4 @@ Hello everyone, hope you find this helpful. This was created by [kokofixcomputer
 
 I want to thank that for providing some response examples.
 
-I made this because i though some of it is unclear. so.... i tried to correct them.
+I made this because i some of it is unclear. so.... i tried to correct them.
