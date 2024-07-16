@@ -1,10 +1,8 @@
-# Create folder
+# Create folder <mark style="color:yellow;">`POST`</mark>
 
 **Request method: POST**
 
 Request Example: `https://pterodactyl/api/client/servers/<Server ID>/files/create-folder`
-
-## Get Server Details
 
 <mark style="color:yellow;">`POST`</mark> `/api/client/servers/<Server ID>/files/create-folder`
 
