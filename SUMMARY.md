@@ -63,7 +63,13 @@
 
 ## Application
 
-* [Nodes](application/nodes.md)
+* [Nodes](application/nodes/README.md)
+  * [List Nodes](application/nodes/list-nodes.md)
+  * [Node Details](application/nodes/node-details.md)
+  * [Get node configuration ](application/nodes/get-node-configuration.md)
+  * [Add node](application/nodes/add-node.md)
+  * [Edit Node](application/nodes/edit-node.md)
+  * [Delete Node](application/nodes/delete-node.md)
 * [Users](application/users/README.md)
   * [List Users](application/users/list-users.md)
   * [User details](application/users/user-details.md)
