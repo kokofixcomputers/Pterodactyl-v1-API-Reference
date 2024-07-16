@@ -58,8 +58,15 @@
 * [Settings](server-main/settings/README.md)
   * [Rename Server](server-main/settings/rename-server.md)
   * [Reinstall Server](server-main/settings/reinstall-server.md)
+* [Websocket](server-main/websocket.md)
+* [How to get api key](server-main/how-to-get-api-key.md)
 
-***
+## Application
 
-* [Websocket](websocket.md)
-* [How to get api key](how-to-get-api-key.md)
+* [Nodes](application/nodes.md)
+* [Users](application/users/README.md)
+  * [List Users](application/users/list-users.md)
+  * [User details](application/users/user-details.md)
+* [Servers](application/servers.md)
+* [Nests](application/nests.md)
+* [Locations](application/locations.md)
