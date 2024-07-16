@@ -10,7 +10,7 @@ Request Example: \`https://pterodactyl/api/client/servers/\<Server ID>/websocket
 
 <mark style="color:green;">`GET`</mark> `/api/client/servers/<Server ID>/websocket`
 
-After you've done this, you can go check out [websocket.md](websocket.md "mention") for instructions on how to connect.
+After you've done this, you can go check out [websocket.md](../websocket.md "mention") for instructions on how to connect.
 
 **Headers**
 

@@ -58,8 +58,8 @@
 * [Settings](server-main/settings/README.md)
   * [Rename Server](server-main/settings/rename-server.md)
   * [Reinstall Server](server-main/settings/reinstall-server.md)
-* [Websocket](server-main/websocket.md)
-* [How to get api key](server-main/how-to-get-api-key.md)
+* [Websocket](websocket.md)
+* [How to get api key](how-to-get-api-key.md)
 
 ## Application
 

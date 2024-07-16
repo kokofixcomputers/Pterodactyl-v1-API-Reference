@@ -2,7 +2,7 @@
 
 
 
-## Connect to websocket after getting credentials [generates-websocket-credentials.md](generates-websocket-credentials.md "mention")
+## Connect to websocket after getting credentials [generates-websocket-credentials.md](server-main/generates-websocket-credentials.md "mention")
 
 <mark style="color:green;">`WSS`</mark> `wss://pterodactyl/api/servers/<Server UUID>/ws`
 
@@ -10,7 +10,7 @@
 
 **Authenticate:**
 
-Use the token you got from [generates-websocket-credentials.md](generates-websocket-credentials.md "mention") as args
+Use the token you got from [generates-websocket-credentials.md](server-main/generates-websocket-credentials.md "mention") as args
 
 `{"event":"auth","args":["<token>"]}`
 
